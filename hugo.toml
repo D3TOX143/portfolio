@@ -57,6 +57,13 @@ image = "images/Cap.png"
 w = "780"
 h = "518"
 
+[[params.subprojects.list]]
+title = "Teddy Bear"
+description = "Sed do eiusmod tempor incididunt"
+image = "images/teddy_bear.png"
+w = "780"
+h = "700"
+
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via email or social media."
