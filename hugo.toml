@@ -44,16 +44,16 @@ w = "780"
 h = "518"
 
 [[params.subprojects.list]]
-title = "Random T-Sgirt"
-description = "2023-05-30"
-image = "images/tshirt.png"
+title = "Random Cap"
+description = "2023-05-31"
+image = "images/Cap.png"
 w = "780"
 h = "518"
 
 [[params.subprojects.list]]
-title = "Random Cap"
-description = "2023-05-31"
-image = "images/Cap.png"
+title = "Random T-Shirt"
+description = "2023-05-30"
+image = "images/tshirt.png"
 w = "780"
 h = "518"
 
@@ -74,7 +74,7 @@ h = "700"
 [[params.subprojects.list]]
 title = "Awake Fox"
 description = "2023-06-03"
-image = "images/fox.png"
+image = "images/fox.svg"
 w = "780"
 h = "900"
 
