@@ -31,38 +31,52 @@ h = "518"
 
 [[params.subprojects.list]]
 title = "Random Gloves"
-description = "Lorem ipsum dolor sit amet"
+description = "2023-05-28"
 image = "images/gloves.png"
 w = "780"
 h = "522"
 
 [[params.subprojects.list]]
 title = "Twice Logo"
-description = "Consectetur adipiscing elit"
+description = "2023-05-29"
 image = "images/twice.png"
 w = "780"
 h = "518"
 
 [[params.subprojects.list]]
 title = "Random T-Sgirt"
-description = "Sed do eiusmod tempor incididunt"
+description = "2023-05-30"
 image = "images/tshirt.png"
 w = "780"
 h = "518"
 
 [[params.subprojects.list]]
 title = "Random Cap"
-description = "Sed do eiusmod tempor incididunt"
+description = "2023-05-31"
 image = "images/Cap.png"
 w = "780"
 h = "518"
 
 [[params.subprojects.list]]
 title = "Teddy Bear"
-description = "Sed do eiusmod tempor incididunt"
+description = "2023-06-01"
 image = "images/teddy_bear.png"
 w = "780"
 h = "700"
+
+[[params.subprojects.list]]
+title = "Sleepy Fox"
+description = "2023-06-02"
+image = "images/sleepy_fox.png"
+w = "780"
+h = "700"
+
+[[params.subprojects.list]]
+title = "Awake Fox"
+description = "2023-06-03"
+image = "images/fox.png"
+w = "780"
+h = "900"
 
 # Contact section
 [params.contact]
