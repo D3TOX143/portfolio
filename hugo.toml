@@ -78,26 +78,27 @@ image = "images/fox.svg"
 w = "780"
 h = "518"
 
+
 [[params.subprojects.list]]
-title = "Sleepy Fox"
-description = "2023-06-02"
-image = "images/sleepy_fox.svg"
+title = "Random Alien"
+description = "2023-06-04"
+image = "images/alien.svg"
 w = "780"
 h = "518"
 
 [[params.subprojects.list]]
-title = "Alien and Blender"
+title = "Blender Logo"
 description = "2023-06-04"
-image = "images/alien_and_blender.svg"
+image = "images/blender.svg"
 w = "780"
 h = "518"
 
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via email or social media."
-twitter = "#"
-facebook = ""
-instagram = "#"
-github = ""
-email = "#"
+twitter = "http://twitter.com/"
+facebook = "https://facebook.com/"
+instagram = "https://instagram.com/d3tox143"
+github = "https://github.com/D3TOX143"
+email = "yogedragurung086@gmail.com"
 
