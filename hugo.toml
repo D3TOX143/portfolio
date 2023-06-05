@@ -93,6 +93,13 @@ image = "images/blender.svg"
 w = "780"
 h = "518"
 
+[[params.subprojects.list]]
+title = "Sunset View"
+description = "2023-06-05"
+image = "images/evening.svg"
+w = "780"
+h = "518"
+
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via email or social media."
