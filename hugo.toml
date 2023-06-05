@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://example.org/"
+baseurl = "https://ygurung.com/"
 languageCode = "en-us"
 title = "Yogendra Gurung"
 copyright = "© Yogendra Gurung"
@@ -101,7 +101,7 @@ w = "780"
 h = "518"
 
 [[params.subprojects.list]]
-title = "logo for NS"
+title = "NS Logo"
 description = "2023-06-05"
 image = "images/blue_n.svg"
 w = "780"
