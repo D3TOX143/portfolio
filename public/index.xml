@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yogendra Gurung</title>
-    <link>https://example.org/</link>
+    <link>https://ygurung.com/</link>
     <description>Recent content on Yogendra Gurung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Yogendra Gurung</copyright><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Yogendra Gurung</copyright><atom:link href="https://ygurung.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
