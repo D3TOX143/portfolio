@@ -101,16 +101,9 @@ w = "780"
 h = "518"
 
 [[params.subprojects.list]]
-title = "logo for Nikesh (Blue)"
+title = "logo for NS"
 description = "2023-06-05"
 image = "images/blue_n.svg"
-w = "780"
-h = "518"
-
-[[params.subprojects.list]]
-title = "logo for Nikesh (Yellow)"
-description = "2023-06-05"
-image = "images/golden_n.svg"
 w = "780"
 h = "518"
 
