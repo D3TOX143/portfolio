@@ -114,6 +114,13 @@ image = "images/nikesh_icon.svg"
 w = "780"
 h = "518"
 
+[[params.subprojects.list]]
+title = "Night View"
+description = "2023-06-07"
+image = "images/window_view.svg"
+w = "780"
+h = "518"
+
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via email or social media."
