@@ -121,6 +121,13 @@ image = "images/window_view.svg"
 w = "780"
 h = "518"
 
+[[params.subprojects.list]]
+title = "Random Postcard"
+description = "2023-06-09"
+image = "images/Random_Postcard.svg"
+w = "780"
+h = "518"
+
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via email or social media."
