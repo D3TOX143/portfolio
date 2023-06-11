@@ -142,6 +142,13 @@ image = "images/camera_icon.svg"
 w = "780"
 h = "518"
 
+[[params.subprojects.list]]
+title = "Ice Cream"
+description = "2023-06-12"
+image = "images/ice_cream.svg"
+w = "780"
+h = "518"
+
 # Contact section
 [params.contact]
 description = "I would like to hear from you. Please contact me via email or social media."
